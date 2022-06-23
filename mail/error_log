@@ -1,0 +1,12 @@
+[27-Jun-2017 06:08:52 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 38
+[27-Jun-2017 06:10:09 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 38
+[27-Jun-2017 06:13:22 UTC] PHP Notice:  Undefined index: phone in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 50
+[27-Jun-2017 06:13:22 UTC] PHP Notice:  Undefined variable: comments in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 75
+[27-Jun-2017 06:13:56 UTC] PHP Notice:  Undefined index: phone in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 50
+[27-Jun-2017 06:13:56 UTC] PHP Notice:  Undefined variable: comments in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 75
+[27-Jun-2017 06:16:08 UTC] PHP Notice:  Undefined index: phone in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 50
+[27-Jun-2017 06:16:30 UTC] PHP Notice:  Undefined index: phone in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 50
+[27-Jun-2017 06:17:58 UTC] PHP Notice:  Undefined index: phone in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 50
+[27-Jun-2017 06:19:04 UTC] PHP Notice:  Undefined index: phone in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 50
+[27-Jun-2017 06:30:10 UTC] PHP Notice:  Undefined index: phone in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 50
+[05-May-2018 03:29:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/aruviannexmunnar/public_html/mail/sendmail.php on line 9
