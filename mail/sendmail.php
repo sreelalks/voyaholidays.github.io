@@ -6,7 +6,7 @@ if(isset($_POST['email'])) {
     // EDIT THE 2 LINES BELOW AS REQUIRED
     $out = array();
     
-    $email_to = "aruviannexesales@gmail.com, mailsreelalks@gmail.com";
+    $email_to = "mailsreelalks@gmail.com";
  
     $email_subject = "Website Contact Form:  $name";
 
