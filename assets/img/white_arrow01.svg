@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="24px" viewBox="0 0 12 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>down copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Details" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1064.000000, -401.000000)">
+        <g id="Group-6" transform="translate(294.000000, 401.000000)" fill="#333" fill-rule="nonzero">
+            <g id="down-copy-2" transform="translate(776.000000, 12.000000) scale(-1, 1) rotate(90.000000) translate(-776.000000, -12.000000) translate(764.000000, 6.000000)">
+                <path d="M23.9639401,0.313974269 C23.8882366,0.12403343 23.7041576,0 23.5000629,0 L21.5000378,0 C21.3721154,0 21.2490679,0.0488446086 21.1563018,0.137205537 L12.0000242,8.81120176 L2.84369968,0.137205537 C2.75093362,0.0488446086 2.62788616,0 2.49996368,0 L0.49993861,0 C0.295843895,0 0.111764901,0.12403343 0.036061418,0.313974269 C-0.0401108169,0.50344635 0.00676440453,0.720247036 0.154233851,0.861343266 L11.6542726,11.8615523 C11.8476329,12.0461492 12.1523218,12.0461492 12.3456821,11.8615523 L23.8457208,0.861343266 C23.9932371,0.720247036 24.0401123,0.50344635 23.9639401,0.313974269 Z" id="Shape"/>
+            </g>
+        </g>
+    </g>
+</svg>

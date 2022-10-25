@@ -33,11 +33,14 @@
   </head>
   <body> 
 
-<header>  
-  <div class="container">
+<header class="header">  
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-4 col-sm-4 col-xs-6">
-        <a class="navbar-logo" href="index.html"> <img src="assets/img/logo.png"  height="50" alt="Voya Holidays"></a>
+        <a class="navbar-logo" href="index.html"> 
+          <img class="logo-blue" src="assets/img/logo.png" height="50" alt="Voya Holidays">
+          <img class="logo-white" src="assets/img/logo-white.png" height="50" alt="Voya Holidays">
+        </a>
       </div>
       <div class="col-md-8 col-sm-8">       
         
@@ -56,10 +59,10 @@
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav custom-menu navbar-nav" id="nav-mobile">
               <li><a href="index.html">HOME </a></li>
-              <li><a class="link" href="index.html">ABOUT US </a></li>
+              <li><a class="link" href="index.html#about">ABOUT US </a></li>
               <li class="active"><a href="tariff.html">TARIFF </a></li>
               <li><a href="gallery.html">GALLERY </a></li>
-              <li><a  class="link" href="index.html">CONTACT US </a></li>
+              <li><a  class="link" href="#contact">CONTACT US </a></li>
             </ul>            
           </div>
         </nav>
@@ -69,6 +72,10 @@
 </header>
 
  
+ <div class="mb-20">
+  <img  class=" w-100" height="350"   src="assets/img/slider/img3.jpg">
+   
+</div>
  
 
 <div class="clearfix"></div>
@@ -197,6 +204,7 @@ For special holiday packages & reservations, please feel free to call us 9020045
 
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> 
+  <script src="assets/js/utils.js"></script> 
  
 
   </body>
