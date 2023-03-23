@@ -10,7 +10,7 @@ a,
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #535353;
+    color: #000;
 }
 
 html,
@@ -193,6 +193,9 @@ img {
 
 .p-relative {
     position: relative;
+}
+.object-cover {
+    object-fit: cover;
 }
 
 .btn {
@@ -638,14 +641,12 @@ footer a {
 
 
 .card-box {
-    display: inline-block;
-    margin-top: 20px;
+    display:  block;
     background: #fff;
-    border-radius: 2px;
+    border-radius: 5px;
     overflow: hidden;
     position: relative;
-    padding: 15px;
-    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.14);
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.05);
 }
 .card-box .badge {
     position: absolute;
@@ -653,12 +654,11 @@ footer a {
     right: 10px;
 }
 .card-box img {
-    /* display: block; */
     width: 100%;
 }
 
-.box-text{
-    margin-top: 10px;
+.box-text {
+    padding: 10px 15px;
 }
 
 .inner-banner{
@@ -733,6 +733,9 @@ footer a {
     position: relative;
     border-radius: 5px;
     overflow: hidden;
+}
+.box-wrap img{
+    width: 100%;
 }
 
 .box-wrap-content {

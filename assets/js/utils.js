@@ -1,4 +1,5 @@
-      $(window).scroll(function(){
+        window.scrollTo(0, 0);
+        $(window).scroll(function(){
           var sticky = $('.header'),
               scroll = $(window).scrollTop();
 
@@ -7,8 +8,8 @@
         });
 
         $(".popular-packages").slick({
-          autoplaySpeed: 3000,
-          autoplay:false,
+          autoplaySpeed: 2500,
+          autoplay:true,
           arrows: true,
           dots: false, 
           slidesToShow: 4,
