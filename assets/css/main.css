@@ -556,7 +556,7 @@ footer ul {
 .book-form {
     max-width: 100%;
     width: 500px;
-    margin: 50px 0 50px 50px;
+    padding: 50px 0 50px 50px;
 }
 
 .form-bg {
@@ -815,6 +815,10 @@ footer a {
 }
 
 @media only screen and (max-width:640px) {
+    .book-form {
+   
+    padding: 50px 0  ;
+}
 }
 
 /* Extra Small Devices, Phones */
